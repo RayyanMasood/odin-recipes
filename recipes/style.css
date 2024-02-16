@@ -1,0 +1,54 @@
+.Dish-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    width: auto;
+    background: #e3f4ff;
+    padding: 10px;
+    margin: auto auto 10px;
+    display: block;
+}
+
+.Description {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    width: auto;
+    background: #e3f4ff;
+    padding: 10px;
+    margin: 10px auto 10px;
+    display: block;
+}
+
+.Dish-ingredients {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    width: auto;
+    background: #e3f4ff;
+    padding: 10px;
+    margin: auto auto 10px;
+    display: block;
+}
+
+.steps {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    width: auto;
+    background: #e3f4ff;
+    padding: 10px;
+    margin: auto auto 10px;
+    display: block;
+}
+
+.pic1 {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
